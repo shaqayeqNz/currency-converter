@@ -31,6 +31,9 @@ currency-converter/
 ├── requirements.txt
 ├── README.md
 │
+├── assets/
+│       ├── demo.png
+│       
 └── src/
     ├── api.py            # Handles API requests
     ├── converter.py      # Currency conversion logic
